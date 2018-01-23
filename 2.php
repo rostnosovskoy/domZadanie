@@ -25,9 +25,9 @@ echo $letter. "<br />";
 
 
 $arr = [1,2,3];
-$a = $arr[0];
-$a = $arr[1];
-$a = $arr[2];
+//$a = $arr[0];
+//$b = $arr[1];
+//$c = $arr[2];
 
 list($a, $b, $c) = $arr;
 
