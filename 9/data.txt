@@ -1,0 +1,3 @@
+a:3:{i:0;a:2:{s:8:"username";s:18:"ростислав";s:7:"comment";s:30:"дфвпйывп
+йпй
+кп";}i:1;a:2:{s:8:"username";s:0:"";s:7:"comment";s:0:"";}i:2;a:2:{s:8:"username";s:8:"sfghsgfh";s:7:"comment";s:7:"wrthwth";}}
